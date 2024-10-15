@@ -1,1 +1,1 @@
-# FPGA_EVM_MatrixMultiplier_MIPS
+# EVM_VERILOG_FPGA
