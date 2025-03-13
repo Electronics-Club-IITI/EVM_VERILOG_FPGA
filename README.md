@@ -48,9 +48,9 @@ Converts the binary vote count to a format suitable for display on a **seven-seg
 1. Program the PYNQ-Z2 FPGA with the Verilog design.
 2. Ensure the system is in voting mode.
 3. Press a button (`button1` to `button4`) to cast a vote for a candidate.
-4. Switch to result mode to view the total votes on the **seven-segment display**.
+4. Switch to result mode to view the total votes on the seven-segment display.
 5. Reset the system to clear all votes and restart the process.
 ---
-This **Electronic Voting Machine (EVM)** is a simple yet effective way to understand FPGA-based digital design and Verilog programming.
+This Electronic Voting Machine (EVM) is a simple yet effective way to understand FPGA-based digital design and Verilog programming.
 
 
