@@ -25,8 +25,8 @@ button4 // Button for Candidate 4
 
 ### Outputs
 ```verilog
-led1 // Seven-segment display output for Candidate 1 & 2
-led2 // Seven-segment display output for Candidate 3 & 4
+led1 // Seven-segment display output for units place
+led2 // Seven-segment display output for tens place
 ```
 
 ## Module Descriptions
